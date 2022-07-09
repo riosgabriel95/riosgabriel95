@@ -2,5 +2,5 @@
 🖌️  Designer Gráfico <br>
 ☕   Desenvolvedor Junior <br><br>
 
-📍  Rio de Janeiro
+📍  Rio de Janeiro <br>
 📧  gabrielrios@id.uff.br
