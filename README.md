@@ -1,1 +1,4 @@
-“Pense globalmente e atue localmente.” (John Lennon)
+💻  Analista de Suporte Técnico
+🖌️  Designer Gráfico
+☕   Programador
+🎼   Músico nas horas vagas
