@@ -1,4 +1,4 @@
 💻  Analista de Suporte Técnico <br>
 🖌️  Designer Gráfico <br>
-☕   Desenvolvedor <br>
+☕   Desenvolvedor Junior <br>
 🎼   Músico nas horas vagas
