@@ -1,4 +1,4 @@
 💻  Analista de Suporte Técnico <br>
 🖌️  Designer Gráfico <br>
-☕   Programador <br>
+☕   Desenvolvedor <br>
 🎼   Músico nas horas vagas
