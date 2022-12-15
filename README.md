@@ -1,8 +1,9 @@
 ### Olá Mundo! Eu sou o Gabriel! 👋
 
 💻  Analista de Suporte Técnico <br>
-🖌️  Designer Gráfico <br>
-☕   Desenvolvedor Junior <br><br>
+🖌️ Designer Gráfico <br>
+☕ Desenvolvedor Junior <br>
+📊  Estudando Ciência de Dados <br><br>
 
 📍  Rio de Janeiro <br>
 📧  gabrielrios@id.uff.br
